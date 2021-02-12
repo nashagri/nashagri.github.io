@@ -8480,7 +8480,7 @@ h1, h2, h3, h4, h5,
     .services .btn-custom span {
       color: #fff; }
   .services:hover .icon {
-    background: #bd475d; }
+    background: #8fc93a; }
     .services:hover .icon span {
       color: #fff275; }
   .services:hover .btn-custom {
@@ -9465,4 +9465,9 @@ textarea.form-control {
 
 .float-whatsapp:hover {
   color: #218380;
+}
+
+#ftco_counter_value_1, #ftco_counter_value_2, #ftco_counter_value_3, #ftco_counter_value_4 {
+  font-size: 30px;
+  color: #000000;
 }
