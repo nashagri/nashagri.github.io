@@ -8283,6 +8283,7 @@ h1, h2, h3, h4, h5,
   .owl-carousel .owl-item {
     opacity: .4; }
     .owl-carousel .owl-item.active {
+      width: 300px !important;
       opacity: 1; }
   .owl-carousel .owl-nav {
     position: absolute;
@@ -9479,3 +9480,7 @@ textarea.form-control {
 .flaticon-market-linkages { width: 55%; }
 .flaticon-price-intelligence { width: 55%; }
 .flaticon-biz-applications { width: 55%; }
+
+.testimony-fpc-logo {
+  max-width: 250px;
+}
